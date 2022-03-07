@@ -1,6 +1,4 @@
 ## Hi there 👋 I'm [Ilya Mur][website]
-!(https://github.com/ilyamur)
-
 
 ## 🎓 I'm backend developer from Saint Peterburg. 
 
@@ -55,5 +53,6 @@
 
 [website]: https://ilyamur.github.io/cv/
 [mail]: mailto:ilyamur@hotmail.com
+[telegram]: https://t.me/ilyamr
 
 
