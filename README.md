@@ -26,7 +26,7 @@
 <img src="https://4.bp.blogspot.com/-KwwgzcyA1_s/WxQdbHQeKqI/AAAAAAAAKcM/I5W1YoUUjcEas1hTaj3mjkZNT2f7T-eSACLcBGAs/s1600/MSDYN365BC%2B-%2BDockers%2BLogo.jpg" alt="docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_logo_icon_146391.png" alt="postgres" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://w7.pngwing.com/pngs/950/109/png-transparent-vim-computer-icons-text-editor-skk-cursor-others-angle-rectangle-triangle.png" alt="vim" height="40" style="vertical-align:top; margin:4px" alt="vim" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/vim.svg" alt="vim" height="40" style="vertical-align:top; margin:4px" alt="vim" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
