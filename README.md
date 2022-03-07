@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm [Ilya Muratov][website]
 
-##  I'm backend developer from Saint Peterburg. 
+##  I'm backend developer from Saint Petersburg. 
 
 -  My main passion is building web apps and exploring new things.
 -  Can't stop writing in Ruby and PHP.  
@@ -21,8 +21,8 @@
 ## My prefer technologies:
 <p align="center">
 <img src="https://unixhelp.org/wp-content/uploads/2015/08/golang.sh-600x600-300x300-1.png" alt="go" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/738px-Laravel.svg.png" alt="laravel" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://4.bp.blogspot.com/-KwwgzcyA1_s/WxQdbHQeKqI/AAAAAAAAKcM/I5W1YoUUjcEas1hTaj3mjkZNT2f7T-eSACLcBGAs/s1600/MSDYN365BC%2B-%2BDockers%2BLogo.jpg" alt="docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_logo_icon_146391.png" alt="postgres" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
