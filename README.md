@@ -2,10 +2,11 @@
 
 ## 🎓 I'm backend developer from Saint Peterburg. 
 
-- 🔭 I’m currently learning Go language. And I love it!
-- 🌱 I enjoy a lot great PHP and Ruby languages.
-- 💬 Ask me about anything
-- ⚡ My lifetime hobby is ZX Spectrum hardware and programming in retro languages.
+-  My main passion is building web apps and exploring new things.
+-  I can't stop writing apps in Ruby and PHP.  
+-  Currently learning Go language. And I love it!
+-  My lifetime hobby is ZX Spectrum hardware and programming in retro languages.
+-  Ask me about anything
 
 ## :email: Find me on:
 
@@ -24,18 +25,15 @@
 <br />
 
 
-## 🧰 Languages and Tools:
+## My prefer Languages and Technologies:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" alt="go" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png" alt="go" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://unixhelp.org/wp-content/uploads/2015/08/golang.sh-600x600-300x300-1.png" alt="go" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://e7.pngegg.com/pngimages/256/416/png-clipart-docker-github-node-js-mongodb-computer-software-github-blue-marine-mammal-thumbnail.png" alt="docker" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/738px-Laravel.svg.png" alt="laravel" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgres" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://img1.freepng.ru/20181211/re/kisspng-vim-text-editor-unix-linux-5c0f76fc477b34.6891581515445173722928.jpg" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="vim" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
@@ -46,8 +44,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=ilyamur&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ilyamur&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamur&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamur&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamur&hide=html&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyamur&hide=html&theme=tokyonight" />
 </a>
 </div>
 
