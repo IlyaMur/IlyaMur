@@ -31,7 +31,7 @@
 
 <br />
 
-## :trophy: My Github Stats:
+## My Github Stats:
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=ilyamur&theme=tokyonight">
