@@ -1,4 +1,4 @@
-## Hi! 👋 I'm [Ilya Muratov][website]
+## Hi! 👋 I'm Ilya Muratov
 
 ### Find me on:
 
