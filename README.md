@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm [Ilya Muratov][website]
 
-## Find me on:
+### Find me on:
 
 <p align="center">
  <a href="https://ilyamur.github.io/cv/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="web" height="40" style="vertical-align:top; margin:4px"> </a>
